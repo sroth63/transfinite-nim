@@ -10,13 +10,13 @@ In this implementation, you play against the computer. You can choose the initia
 
 This is a library that implements ordinal numbers and their basic operations. It can only manipulate ordinals below $\varepsilon_0$. Ordinals behave like a superset of the natural integers: you can use the usual operations `+`, `*`, `**`, `<`, `==`, etc. with both integers and ordinals.
 
-![An example of operations between ordinals](ordinals.jpg)
+![An example of operations between ordinals](ordinals.png)
 
 ## `nim.py`
 
 This file contains the actual game.
 
-![Beginning of a game](nim.jpg)
+![Beginning of a game](nim.png)
 
 
 ## Warning
